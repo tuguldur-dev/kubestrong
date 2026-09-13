@@ -887,5 +887,18 @@
     "linkedin": "damien-obringer",
     "avatar": "/avatars/damienobringer.png",
     "website": "https://damien-o.github.io"
+  },
+  {
+    "name": "Larry Lai",
+    "github": "lai3d",
+    "certs": [
+      "kubestrong",
+      "Golden Kubestronaut"
+    ],
+    "city": "Singapore",
+    "country": "Singapore",
+    "date": "2026-09-13",
+    "linkedin": "larrylaisg",
+    "avatar": "/avatars/larrylai.jpg"
   }
 ]
